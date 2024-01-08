@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-
-#!/usr/bin/python3
 import os
 import requests
 from bs4 import BeautifulSoup
